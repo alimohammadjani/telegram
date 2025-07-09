@@ -24,5 +24,5 @@ ___
 ## Usage
 - start bot by /start
 - have simple conversation with bot /hello and /bye 
-- for geting help to how use the bot /help
+- for geting help  /help
 - for geting btc price /price_btc
