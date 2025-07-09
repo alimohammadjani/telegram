@@ -45,7 +45,7 @@ bot_data = {
 with open("bot_data.json", "w", encoding="utf-8") as f:
     json.dump(bot_data, f, ensure_ascii=False, indent=4)
 def main() -> None:
-    application = Application.builder().token("7693832488:AAEA12KtmybN1Lpi-8vmV1Ya5SqCiPCiA5I").build()
+    application = Application.builder().token("token section").build()
     application.add_handler(CommandHandler("start", start))
     application.add_handler(CommandHandler("help", help_command))
     application.add_handler(CommandHandler("price_btc", price_btc))
