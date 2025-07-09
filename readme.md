@@ -22,7 +22,7 @@ pip install python-telegram-bot
 ___
 
 ## Usage
-- start bot by /start
-- have simple conversation with bot /hello and /bye 
-- for geting help  /help
-- for geting btc price /price_btc
+- start bot by ,/start,
+- have simple conversation with bot ,/hello, and ,/bye,
+- for geting help  ,/help,
+- for geting btc price ,/price_btc,
