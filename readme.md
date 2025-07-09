@@ -19,3 +19,10 @@ cd bitcoin_price_Bot
 pip install python-telegram-bot
 ~~~
 - make robot by using botfather in telegram and copy the token and replace it with token section in python code 
+___
+
+## Usage
+- start bot by /start
+- have simple conversation with bot /hello and /bye 
+- for geting help to how use the bot /help
+- for geting btc price /price_btc
